@@ -1,0 +1,21 @@
+.table {
+    border: 5px;
+    border-color: #000;
+    align-self: center;
+    justify-content: center;
+}
+
+.tbody {
+    border: 5px;
+    border-color: #000;
+    align-self: center;
+    justify-content: center;
+}
+
+.trows {
+    border: 5px;
+    border-color: #000;
+    align-self: center;
+    justify-content: center;
+}
+
